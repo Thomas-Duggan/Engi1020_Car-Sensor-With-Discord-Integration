@@ -1,6 +1,7 @@
 ## Instructions
 - Both programs with a preceeding "!" are to be ran seperately in different instances of Thonny (or different IDE), simultaneously.
 - All other python programs (Tmon.py, RAM.py, Pet Mode.py, mode.py) can be ignored. These programs are labeled .py for ease of access within your IDE of choice and, again, are not to be ran as a program.
+- Make sure to replace all instances of " BOT TOKEN GOES HERE " with your Discord Bot's token. Do not remove the quotation marks.
 
 
 ## Notes
