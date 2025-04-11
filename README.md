@@ -5,7 +5,7 @@
 
 
 ## Notes
-- Project in collaboration with Devin Reardon.
+- Project in collaboration with Devin Reardon (co-author).
 - "CFW" means Custom FirmWare. I do not have permission to distribute the CFW used.
 - Requires a microcomputer and [Ultrasonic Ranger](https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/) to function properly.
 
