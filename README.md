@@ -1,7 +1,11 @@
+## Instructions
+- Both programs with a preceeding "!" are to be ran seperately in different instances of Thonny (or different IDE), simultaneously.
+- All other python programs (Tmon.py, RAM.py, Pet Mode.py, mode.py) can be ignored. These programs are labeled .py for ease of access within your IDE of choice and, again, are not to be ran as a program.
+
+
 ## Notes
 - Project in collaboration with Devin Reardon.
 - "CFW" means Custom FirmWare. I do not have permission to distribute the CFW used.
-- Both programs with a preceeding "!" are to be ran seperately in different instances of Thonny (or different IDE), simultaneously.
 - Requires a microcomputer and [Ultrasonic Ranger](https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/) to function properly.
 
 
