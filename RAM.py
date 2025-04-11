@@ -1,0 +1,1 @@
+'Temp', 'Temperature is 19.85°C', 'Unsurpassed', 'temp_val_3'
